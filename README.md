@@ -11,9 +11,9 @@ Results
 -
 We show through experiments that the proposed method can 
 
-+ enable lifelong learning for scare-aware depth estimation,
++ enable lifelong learning for scale-aware depth estimation,
 + cope with significant domain shift, 
-+ infer a depth map in real time.
++ infer a depth map in real-time.
 
 Qualitative comparisons:
 
