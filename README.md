@@ -63,12 +63,16 @@ Running
 	 2. Training on two domains: python train_NK.py<br>
    	 3. Training on three domains: python train_NKS.py<br>
 
+
 Citation
 -
+    @ARTICLE{10293000,
+	  author={Hu, Junjie and Fan, Chenyou and Zhou, Liguang and Gao, Qing and Liu, Honghai and Lam, Tin Lun},
+	  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+	  title={Lifelong-MonoDepth: Lifelong Learning for Multidomain Monocular Metric Depth Estimation}, 
+	  year={2025},
+	  volume={36},
+	  number={1},
+	  pages={796-806}}
 
-    @article{hu2023lifelong,
-  		title={Lifelong-MonoDepth: Lifelong Learning for Multi-Domain Monocular Metric Depth Estimation},
-  		author={Hu, Junjie and Fan, Chenyou and Zhou, Liguang and Gao, Qing and Liu, Honghai and Lam, Tin Lun},
-  		journal={arXiv preprint arXiv:2303.05050},
-  		year={2023}
-	}
+
